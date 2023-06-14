@@ -15,7 +15,7 @@ Main components:
 * SDRAM 32 MB: Winbond  W9825G6KH-6
 * SRAM 2 MB: ISSI IS61WV20488FBLL-10TLI   (this is the new part number)
 
-![SRAM_change](/home/jordi/Coding/Github/sdram_sram_v1.3_mister/datasheets/SRAM_change.png)
+![SRAM_change](SRAM_change.png)
 
 
 
@@ -23,6 +23,6 @@ CKE signal enables SDRAM with 1 and SRAM with 0.
 
 
 
-![sdram](/home/jordi/Coding/Github/sdram_sram_v1.3_mister/sdram.jpg)
+![sdram](sdram.jpg)
 
-![sram](/home/jordi/Coding/Github/sdram_sram_v1.3_mister/sram.jpg)
+![sram](sram.jpg)
