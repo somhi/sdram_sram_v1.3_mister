@@ -15,7 +15,7 @@ Main components:
 * SDRAM 32 MB: Winbond  W9825G6KH-6
 * SRAM 2 MB: ISSI IS61WV20488FBLL-10TLI   (this is the new part number)
 
-![SRAM_change](SRAM_change.png)
+![SRAM_change](datasheets/SRAM_change.png)
 
 
 
